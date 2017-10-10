@@ -60,8 +60,8 @@ const fakeAlbums = [
 export default class AllAlbums extends Component {
   constructor() {
     super();
-    this.state ={
-      albums:[]
+    this.state = {
+      albums: []
     };
   }
 
